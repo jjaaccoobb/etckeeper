@@ -1,0 +1,49 @@
+! xfonts-ayu gothic20 jisx0208.1990 -> jix0208.1983 fall back alias
+-Ayu-Gothic-Medium-R-Normal--20-190-75-75-C-200-JISX0208.1983-0 -Ayu-Gothic-Medium-R-Normal--20-190-75-75-C-200-JISX0208.1990-0
+-Ayu-Gothic-Bold-R-Normal--20-190-75-75-C-200-JISX0208.1983-0 -Ayu-Gothic-Bold-R-Normal--20-190-75-75-C-200-JISX0208.1990-0
+-Ayu-Gothic-Medium-I-Normal--20-190-75-75-C-200-JISX0208.1983-0 -Ayu-Gothic-Medium-I-Normal--20-190-75-75-C-200-JISX0208.1990-0
+-Ayu-Gothic-Bold-I-Normal--20-190-75-75-C-200-JISX0208.1983-0 -Ayu-Gothic-Bold-I-Normal--20-190-75-75-C-200-JISX0208.1990-0
+
+! xfonts-ayu gothic18 jisx0208.1990 -> jix0208.1983 fall back alias
+-Ayu-Gothic-Medium-R-Normal--18-170-75-75-C-180-JISX0208.1983-0 -Ayu-Gothic-Medium-R-Normal--18-170-75-75-C-180-JISX0208.1990-0
+-Ayu-Gothic-Bold-R-Normal--18-170-75-75-C-180-JISX0208.1983-0 -Ayu-Gothic-Bold-R-Normal--18-170-75-75-C-180-JISX0208.1990-0
+-Ayu-Gothic-Medium-I-Normal--18-170-75-75-C-180-JISX0208.1983-0 -Ayu-Gothic-Medium-I-Normal--18-170-75-75-C-180-JISX0208.1990-0
+-Ayu-Gothic-Bold-I-Normal--18-170-75-75-C-180-JISX0208.1983-0 -Ayu-Gothic-Bold-I-Normal--18-170-75-75-C-180-JISX0208.1990-0
+
+! xfonts-ayu Mincho18 jisx0208.1990 -> jix0208.1983 fall back alias
+-Ayu-Mincho-Medium-R-Normal--18-170-75-75-C-180-JISX0208.1983-0 -Ayu-Mincho-Medium-R-Normal--18-170-75-75-C-180-JISX0208.1990-0
+-Ayu-Mincho-Bold-R-Normal--18-170-75-75-C-180-JISX0208.1983-0 -Ayu-Mincho-Bold-R-Normal--18-170-75-75-C-180-JISX0208.1990-0
+-Ayu-Mincho-Medium-I-Normal--18-170-75-75-C-180-JISX0208.1983-0 -Ayu-Mincho-Medium-I-Normal--18-170-75-75-C-180-JISX0208.1990-0
+-Ayu-Mincho-Bold-I-Normal--18-170-75-75-C-180-JISX0208.1983-0 -Ayu-Mincho-Bold-I-Normal--18-170-75-75-C-180-JISX0208.1990-0
+
+! xfonts-ayu short name alias
+k20g	-Ayu-Gothic-Medium-R-Normal--20-190-75-75-C-200-JISX0208.1990-0
+k20gb	-Ayu-Gothic-Bold-R-Normal--20-190-75-75-C-200-JISX0208.1990-0
+k20gi	-Ayu-Gothic-Medium-I-Normal--20-190-75-75-C-200-JISX0208.1990-0
+k20gbi	-Ayu-Gothic-Bold-I-Normal--20-190-75-75-C-200-JISX0208.1990-0
+r20	-Ayu-Gothic-Medium-R-Normal--20-190-75-75-C-100-ISO8859-1
+r20b	-Ayu-Gothic-Bold-R-Normal--20-190-75-75-C-100-ISO8859-1
+r20i	-Ayu-Gothic-Medium-I-Normal--20-190-75-75-C-100-ISO8859-1
+r20bi	-Ayu-Gothic-Bold-I-Normal--20-190-75-75-C-100-ISO8859-1
+rk20	-Ayu-Gothic-Medium-R-Normal--20-190-75-75-C-100-JISX0201.1976-0
+rk20b	-Ayu-Gothic-Bold-R-Normal--20-190-75-75-C-100-JISX0201.1976-0
+rk20i	-Ayu-Gothic-Medium-I-Normal--20-190-75-75-C-100-JISX0201.1976-0
+rk20bi	-Ayu-Gothic-Bold-I-Normal--20-190-75-75-C-100-JISX0201.1976-0
+
+! xfonts-ayu -misc-* alias (including above fall back to jisx0208.1983)
+-Misc-Gothic-Medium-R-Normal--20-190-75-75-C-200-JISX0208.1990-0	-Ayu-Gothic-Medium-R-Normal--20-190-75-75-C-200-JISX0208.1990-0
+-Misc-Gothic-Medium-R-Normal--20-190-75-75-C-200-JISX0208.1983-0	-Ayu-Gothic-Medium-R-Normal--20-190-75-75-C-200-JISX0208.1990-0
+-Misc-Gothic-Bold-R-Normal--20-190-75-75-C-200-JISX0208.1990-0		-Ayu-Gothic-Bold-R-Normal--20-190-75-75-C-200-JISX0208.1990-0
+-Misc-Gothic-Bold-R-Normal--20-190-75-75-C-200-JISX0208.1983-0		-Ayu-Gothic-Bold-R-Normal--20-190-75-75-C-200-JISX0208.1990-0
+-Misc-Gothic-Medium-I-Normal--20-190-75-75-C-200-JISX0208.1990-0	-Ayu-Gothic-Medium-I-Normal--20-190-75-75-C-200-JISX0208.1990-0
+-Misc-Gothic-Medium-I-Normal--20-190-75-75-C-200-JISX0208.1983-0	-Ayu-Gothic-Medium-I-Normal--20-190-75-75-C-200-JISX0208.1990-0
+-Misc-Gothic-Bold-I-Normal--20-190-75-75-C-200-JISX0208.1990-0		-Ayu-Gothic-Bold-I-Normal--20-190-75-75-C-200-JISX0208.1990-0
+-Misc-Gothic-Bold-I-Normal--20-190-75-75-C-200-JISX0208.1983-0		-Ayu-Gothic-Bold-I-Normal--20-190-75-75-C-200-JISX0208.1990-0
+-Misc-Gothic-Medium-R-Normal--20-190-75-75-C-100-ISO8859-1		-Ayu-Gothic-Medium-R-Normal--20-190-75-75-C-100-ISO8859-1
+-Misc-Gothic-Bold-R-Normal--20-190-75-75-C-100-ISO8859-1		-Ayu-Gothic-Bold-R-Normal--20-190-75-75-C-100-ISO8859-1
+-Misc-Gothic-Medium-I-Normal--20-190-75-75-C-100-ISO8859-1		-Ayu-Gothic-Medium-I-Normal--20-190-75-75-C-100-ISO8859-1
+-Misc-Gothic-Bold-I-Normal--20-190-75-75-C-100-ISO8859-1		-Ayu-Gothic-Bold-I-Normal--20-190-75-75-C-100-ISO8859-1
+-Misc-Gothic-Medium-R-Normal--20-190-75-75-C-100-JISX0201.1976-0	-Ayu-Gothic-Medium-R-Normal--20-190-75-75-C-100-JISX0201.1976-0
+-Misc-Gothic-Bold-R-Normal--20-190-75-75-C-100-JISX0201.1976-0		-Ayu-Gothic-Bold-R-Normal--20-190-75-75-C-100-JISX0201.1976-0
+-Misc-Gothic-Medium-I-Normal--20-190-75-75-C-100-JISX0201.1976-0	-Ayu-Gothic-Medium-I-Normal--20-190-75-75-C-100-JISX0201.1976-0
+-Misc-Gothic-Bold-I-Normal--20-190-75-75-C-100-JISX0201.1976-0		-Ayu-Gothic-Bold-I-Normal--20-190-75-75-C-100-JISX0201.1976-0

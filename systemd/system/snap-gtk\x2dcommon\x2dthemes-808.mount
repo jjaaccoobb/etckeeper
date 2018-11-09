@@ -1,0 +1,12 @@
+[Unit]
+Description=Mount unit for gtk-common-themes, revision 808
+Before=snapd.service
+
+[Mount]
+What=/var/lib/snapd/snaps/gtk-common-themes_808.snap
+Where=/snap/gtk-common-themes/808
+Type=squashfs
+Options=nodev,ro,x-gdu.hide
+
+[Install]
+WantedBy=multi-user.target

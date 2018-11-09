@@ -1,0 +1,20 @@
+[connection]
+id=margaret's iPhone
+uuid=79f1114f-856d-4e93-90c1-ba3197c30f09
+type=wifi
+interface-name=wlan0
+permissions=
+
+[wifi]
+mac-address-blacklist=
+mode=infrastructure
+ssid=cmvlib
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto

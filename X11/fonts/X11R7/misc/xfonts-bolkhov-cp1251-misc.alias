@@ -1,0 +1,62 @@
+!! Uncomment the following lines if you want `7x13', `8x16', etc. to be
+!! aliases for Cyrillic fonts.  Comment out the corresponding lines
+!! from /etc/X11/fonts/misc/xfonts-base.alias.  Then use the command
+!! update-fonts-alias to update the actual fonts.alias files.
+
+!fixed        -rfx-fixed-medium-r-semicondensed--13-120-75-75-c-60-microsoft-cp1251
+!variable     -*-helvetica-bold-r-normal-*-*-120-*-*-*-*-microsoft-cp1251
+!5x7          -rfx-fixed-medium-r-normal--7-70-75-75-c-50-microsoft-cp1251
+!6x10         -rfx-fixed-medium-r-normal--10-100-75-75-c-60-microsoft-cp1251
+!6x13         -rfx-fixed-medium-r-semicondensed--13-120-75-75-c-60-microsoft-cp1251
+!6x13bold     -rfx-fixed-bold-r-semicondensed--13-120-75-75-c-60-microsoft-cp1251
+!7x13         -rfx-fixed-medium-r-normal--13-120-75-75-c-70-microsoft-cp1251
+!7x13bold     -rfx-fixed-bold-r-normal--13-120-75-75-c-70-microsoft-cp1251
+!7x14         -rfx-fixed-medium-r-normal--14-130-75-75-c-70-microsoft-cp1251
+!7x14bold     -rfx-fixed-bold-r-normal--14-130-75-75-c-70-microsoft-cp1251
+!8x13         -rfx-fixed-medium-r-normal--13-120-75-75-c-80-microsoft-cp1251
+!8x13bold     -rfx-fixed-bold-r-normal--13-120-75-75-c-80-microsoft-cp1251
+!8x16         -rfx-fixed-medium-r-normal--16-120-100-100-c-80-microsoft-cp1251
+!9x15         -rfx-fixed-medium-r-normal--15-140-75-75-c-90-microsoft-cp1251
+!9x15bold     -rfx-fixed-bold-r-normal--15-140-75-75-c-90-microsoft-cp1251
+!10x20        -rfx-fixed-medium-r-normal--20-200-75-75-c-100-microsoft-cp1251
+!12x24        -rfx-fixed-medium-r-normal--24-170-100-100-c-120-microsoft-cp1251
+!a14          -rfx-fixed-medium-r-normal--14-*-*-*-*-*-microsoft-cp1251
+!nil2         -rfx-nil-medium-r-normal--2-20-75-75-c-10-microsoft-cp1251
+
+w-fixed        -rfx-fixed-medium-r-semicondensed--13-120-75-75-c-60-microsoft-cp1251
+w-variable     -*-helvetica-bold-r-normal-*-*-120-*-*-*-*-microsoft-cp1251
+w-5x7          -rfx-fixed-medium-r-normal--7-70-75-75-c-50-microsoft-cp1251
+w-6x10         -rfx-fixed-medium-r-normal--10-100-75-75-c-60-microsoft-cp1251
+w-6x13         -rfx-fixed-medium-r-semicondensed--13-120-75-75-c-60-microsoft-cp1251
+w-6x13bold     -rfx-fixed-bold-r-semicondensed--13-120-75-75-c-60-microsoft-cp1251
+w-7x13         -rfx-fixed-medium-r-normal--13-120-75-75-c-70-microsoft-cp1251
+w-7x13bold     -rfx-fixed-bold-r-normal--13-120-75-75-c-70-microsoft-cp1251
+w-7x14         -rfx-fixed-medium-r-normal--14-130-75-75-c-70-microsoft-cp1251
+w-7x14bold     -rfx-fixed-bold-r-normal--14-130-75-75-c-70-microsoft-cp1251
+w-8x13         -rfx-fixed-medium-r-normal--13-120-75-75-c-80-microsoft-cp1251
+w-8x13bold     -rfx-fixed-bold-r-normal--13-120-75-75-c-80-microsoft-cp1251
+w-8x16         -rfx-fixed-medium-r-normal--16-120-100-100-c-80-microsoft-cp1251
+w-9x15         -rfx-fixed-medium-r-normal--15-140-75-75-c-90-microsoft-cp1251
+w-9x15bold     -rfx-fixed-bold-r-normal--15-140-75-75-c-90-microsoft-cp1251
+w-10x20        -rfx-fixed-medium-r-normal--20-200-75-75-c-100-microsoft-cp1251
+w-12x24        -rfx-fixed-medium-r-normal--24-170-100-100-c-120-microsoft-cp1251
+w-a14          -rfx-fixed-medium-r-normal--14-*-*-*-*-*-microsoft-cp1251
+w-nil2         -rfx-nil-medium-r-normal--2-20-75-75-c-10-microsoft-cp1251
+
+-rfx-nil-medium-r-normal--2-20-75-75-c-10-misc-fontspecific -rfx-nil-medium-r-normal--2-20-75-75-c-10-microsoft-cp1251
+
+-rfx-fixed-medium-r-normal--7-50-100-100-c-50-microsoft-cp1251 -rfx-fixed-medium-r-normal--7-70-75-75-c-50-microsoft-cp1251
+-rfx-fixed-medium-r-normal--10-70-100-100-c-60-microsoft-cp1251 -rfx-fixed-medium-r-normal--10-100-75-75-c-60-microsoft-cp1251
+-rfx-fixed-medium-r-semicondensed--13-100-100-100-c-60-microsoft-cp1251 -rfx-fixed-medium-r-semicondensed--13-120-75-75-c-60-microsoft-cp1251
+-rfx-fixed-bold-r-semicondensed--13-100-100-100-c-60-microsoft-cp1251 -rfx-fixed-bold-r-semicondensed--13-120-75-75-c-60-microsoft-cp1251
+-rfx-fixed-medium-r-normal--13-100-100-100-c-70-microsoft-cp1251 -rfx-fixed-medium-r-normal--13-120-75-75-c-70-microsoft-cp1251
+-rfx-fixed-bold-r-normal--13-100-100-100-c-70-microsoft-cp1251 -rfx-fixed-bold-r-normal--13-120-75-75-c-70-microsoft-cp1251
+-rfx-fixed-medium-r-normal--13-100-100-100-c-80-microsoft-cp1251 -rfx-fixed-medium-r-normal--13-120-75-75-c-80-microsoft-cp1251
+-rfx-fixed-bold-r-normal--13-100-100-100-c-80-microsoft-cp1251 -rfx-fixed-bold-r-normal--13-120-75-75-c-80-microsoft-cp1251
+-rfx-fixed-medium-r-normal--14-110-100-100-c-70-microsoft-cp1251 -rfx-fixed-medium-r-normal--14-130-75-75-c-70-microsoft-cp1251
+-rfx-fixed-medium-r-normal--14-110-100-100-c-70-microsoft-cp1251 -rfx-fixed-medium-r-normal--14-130-75-75-c-70-microsoft-cp1251
+-rfx-fixed-bold-r-normal--15-120-100-100-c-90-microsoft-cp1251 -rfx-fixed-bold-r-normal--15-140-75-75-c-90-microsoft-cp1251
+-rfx-fixed-bold-r-normal--15-120-100-100-c-90-microsoft-cp1251 -rfx-fixed-bold-r-normal--15-140-75-75-c-90-microsoft-cp1251
+-rfx-fixed-medium-r-normal--20-140-100-100-c-100-microsoft-cp1251 -rfx-fixed-medium-r-normal--20-200-75-75-c-100-microsoft-cp1251
+-rfx-fixed-medium-r-normal--16-150-75-75-c-80-microsoft-cp1251 -rfx-fixed-medium-r-normal--16-120-100-100-c-80-microsoft-cp1251
+-rfx-fixed-medium-r-normal--24-230-75-75-c-120-microsoft-cp1251 -rfx-fixed-medium-r-normal--24-170-100-100-c-120-microsoft-cp1251

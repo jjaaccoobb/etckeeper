@@ -1,0 +1,12 @@
+[Unit]
+Description=Mount unit for gnome-characters, revision 139
+Before=snapd.service
+
+[Mount]
+What=/var/lib/snapd/snaps/gnome-characters_139.snap
+Where=/snap/gnome-characters/139
+Type=squashfs
+Options=nodev,ro,x-gdu.hide
+
+[Install]
+WantedBy=multi-user.target

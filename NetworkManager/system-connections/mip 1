@@ -1,0 +1,25 @@
+[connection]
+id=mip 1
+uuid=1661b4b6-afa2-48e3-8a7f-f287dd7fab59
+type=wifi
+permissions=
+
+[wifi]
+mac-address=40:25:C2:93:63:18
+mac-address-blacklist=
+mode=infrastructure
+ssid=mip
+
+[wifi-security]
+auth-alg=open
+key-mgmt=wpa-psk
+psk=Mars1989
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto

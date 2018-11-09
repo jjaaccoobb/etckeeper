@@ -1,0 +1,12 @@
+[Unit]
+Description=Mount unit for vlc, revision 365
+Before=snapd.service
+
+[Mount]
+What=/var/lib/snapd/snaps/vlc_365.snap
+Where=/snap/vlc/365
+Type=squashfs
+Options=nodev,ro,x-gdu.hide
+
+[Install]
+WantedBy=multi-user.target

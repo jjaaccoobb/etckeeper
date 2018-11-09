@@ -1,0 +1,79 @@
+!! Uncomment the following lines if you want `lucidasans-8', etc. to be
+!! aliases for Cyrillic fonts.  Comment out the corresponding lines
+!! from /etc/X11/fonts/75dpi/xfonts-75dpi.alias and
+!! /etc/X11/fonts/100dpi/xfonts-100dpi.alias.  Then use the command
+!! update-fonts-alias to update the actual fonts.alias files.
+
+!lucidasans-bolditalic-8 -rfx-serene-bold-i-normal-sans-8-80-75-75-p-49-microsoft-cp1251
+!lucidasans-bolditalic-10 -rfx-serene-bold-i-normal-sans-10-100-75-75-p-67-microsoft-cp1251
+!lucidasans-bolditalic-12 -rfx-serene-bold-i-normal-sans-12-120-75-75-p-79-microsoft-cp1251
+!lucidasans-bolditalic-14 -rfx-serene-bold-i-normal-sans-14-140-75-75-p-92-microsoft-cp1251
+!lucidasans-bolditalic-18 -rfx-serene-bold-i-normal-sans-18-180-75-75-p-119-microsoft-cp1251
+!lucidasans-bolditalic-24 -rfx-serene-bold-i-normal-sans-24-240-75-75-p-151-microsoft-cp1251
+!lucidasans-bold-8 -rfx-serene-bold-r-normal-sans-8-80-75-75-p-50-microsoft-cp1251
+!lucidasans-bold-10 -rfx-serene-bold-r-normal-sans-10-100-75-75-p-66-microsoft-cp1251
+!lucidasans-bold-12 -rfx-serene-bold-r-normal-sans-12-120-75-75-p-79-microsoft-cp1251
+!lucidasans-bold-14 -rfx-serene-bold-r-normal-sans-14-140-75-75-p-92-microsoft-cp1251
+!lucidasans-bold-18 -rfx-serene-bold-r-normal-sans-18-180-75-75-p-120-microsoft-cp1251
+!lucidasans-bold-24 -rfx-serene-bold-r-normal-sans-24-240-75-75-p-152-microsoft-cp1251
+!lucidasans-italic-8 -rfx-serene-medium-i-normal-sans-8-80-75-75-p-45-microsoft-cp1251
+!lucidasans-italic-10 -rfx-serene-medium-i-normal-sans-10-100-75-75-p-59-microsoft-cp1251
+!lucidasans-italic-12 -rfx-serene-medium-i-normal-sans-12-120-75-75-p-71-microsoft-cp1251
+!lucidasans-italic-14 -rfx-serene-medium-i-normal-sans-14-140-75-75-p-82-microsoft-cp1251
+!lucidasans-italic-18 -rfx-serene-medium-i-normal-sans-18-180-75-75-p-105-microsoft-cp1251
+!lucidasans-italic-24 -rfx-serene-medium-i-normal-sans-24-240-75-75-p-136-microsoft-cp1251
+!lucidasans-8 -rfx-serene-medium-r-normal-sans-8-80-75-75-p-45-microsoft-cp1251
+!lucidasans-10 -rfx-serene-medium-r-normal-sans-10-100-75-75-p-58-microsoft-cp1251
+!lucidasans-12 -rfx-serene-medium-r-normal-sans-12-120-75-75-p-71-microsoft-cp1251
+!lucidasans-14 -rfx-serene-medium-r-normal-sans-14-140-75-75-p-81-microsoft-cp1251
+!lucidasans-18 -rfx-serene-medium-r-normal-sans-18-180-75-75-p-106-microsoft-cp1251
+!lucidasans-24 -rfx-serene-medium-r-normal-sans-24-240-75-75-p-136-microsoft-cp1251
+!lucidasanstypewriter-bold-8 -rfx-serenetypewriter-bold-r-normal-sans-8-80-75-75-m-50-microsoft-cp1251
+!lucidasanstypewriter-bold-10 -rfx-serenetypewriter-bold-r-normal-sans-10-100-75-75-m-60-microsoft-cp1251
+!lucidasanstypewriter-bold-12 -rfx-serenetypewriter-bold-r-normal-sans-12-120-75-75-m-70-microsoft-cp1251
+!lucidasanstypewriter-bold-14 -rfx-serenetypewriter-bold-r-normal-sans-14-140-75-75-m-90-microsoft-cp1251
+!lucidasanstypewriter-bold-18 -rfx-serenetypewriter-bold-r-normal-sans-18-180-75-75-m-110-microsoft-cp1251
+!lucidasanstypewriter-bold-24 -rfx-serenetypewriter-bold-r-normal-sans-24-240-75-75-m-140-microsoft-cp1251
+!lucidasanstypewriter-8 -rfx-serenetypewriter-medium-r-normal-sans-8-80-75-75-m-50-microsoft-cp1251
+!lucidasanstypewriter-10 -rfx-serenetypewriter-medium-r-normal-sans-10-100-75-75-m-60-microsoft-cp1251
+!lucidasanstypewriter-12 -rfx-serenetypewriter-medium-r-normal-sans-12-120-75-75-m-70-microsoft-cp1251
+!lucidasanstypewriter-14 -rfx-serenetypewriter-medium-r-normal-sans-14-140-75-75-m-90-microsoft-cp1251
+!lucidasanstypewriter-18 -rfx-serenetypewriter-medium-r-normal-sans-18-180-75-75-m-110-microsoft-cp1251
+!lucidasanstypewriter-24 -rfx-serenetypewriter-medium-r-normal-sans-24-240-75-75-m-140-microsoft-cp1251
+
+w-lucidasans-bolditalic-8 -rfx-serene-bold-i-normal-sans-8-80-75-75-p-49-microsoft-cp1251
+w-lucidasans-bolditalic-10 -rfx-serene-bold-i-normal-sans-10-100-75-75-p-67-microsoft-cp1251
+w-lucidasans-bolditalic-12 -rfx-serene-bold-i-normal-sans-12-120-75-75-p-79-microsoft-cp1251
+w-lucidasans-bolditalic-14 -rfx-serene-bold-i-normal-sans-14-140-75-75-p-92-microsoft-cp1251
+w-lucidasans-bolditalic-18 -rfx-serene-bold-i-normal-sans-18-180-75-75-p-119-microsoft-cp1251
+w-lucidasans-bolditalic-24 -rfx-serene-bold-i-normal-sans-24-240-75-75-p-151-microsoft-cp1251
+w-lucidasans-bold-8 -rfx-serene-bold-r-normal-sans-8-80-75-75-p-50-microsoft-cp1251
+w-lucidasans-bold-10 -rfx-serene-bold-r-normal-sans-10-100-75-75-p-66-microsoft-cp1251
+w-lucidasans-bold-12 -rfx-serene-bold-r-normal-sans-12-120-75-75-p-79-microsoft-cp1251
+w-lucidasans-bold-14 -rfx-serene-bold-r-normal-sans-14-140-75-75-p-92-microsoft-cp1251
+w-lucidasans-bold-18 -rfx-serene-bold-r-normal-sans-18-180-75-75-p-120-microsoft-cp1251
+w-lucidasans-bold-24 -rfx-serene-bold-r-normal-sans-24-240-75-75-p-152-microsoft-cp1251
+w-lucidasans-italic-8 -rfx-serene-medium-i-normal-sans-8-80-75-75-p-45-microsoft-cp1251
+w-lucidasans-italic-10 -rfx-serene-medium-i-normal-sans-10-100-75-75-p-59-microsoft-cp1251
+w-lucidasans-italic-12 -rfx-serene-medium-i-normal-sans-12-120-75-75-p-71-microsoft-cp1251
+w-lucidasans-italic-14 -rfx-serene-medium-i-normal-sans-14-140-75-75-p-82-microsoft-cp1251
+w-lucidasans-italic-18 -rfx-serene-medium-i-normal-sans-18-180-75-75-p-105-microsoft-cp1251
+w-lucidasans-italic-24 -rfx-serene-medium-i-normal-sans-24-240-75-75-p-136-microsoft-cp1251
+w-lucidasans-8 -rfx-serene-medium-r-normal-sans-8-80-75-75-p-45-microsoft-cp1251
+w-lucidasans-10 -rfx-serene-medium-r-normal-sans-10-100-75-75-p-58-microsoft-cp1251
+w-lucidasans-12 -rfx-serene-medium-r-normal-sans-12-120-75-75-p-71-microsoft-cp1251
+w-lucidasans-14 -rfx-serene-medium-r-normal-sans-14-140-75-75-p-81-microsoft-cp1251
+w-lucidasans-18 -rfx-serene-medium-r-normal-sans-18-180-75-75-p-106-microsoft-cp1251
+w-lucidasans-24 -rfx-serene-medium-r-normal-sans-24-240-75-75-p-136-microsoft-cp1251
+w-lucidasanstypewriter-bold-8 -rfx-serenetypewriter-bold-r-normal-sans-8-80-75-75-m-50-microsoft-cp1251
+w-lucidasanstypewriter-bold-10 -rfx-serenetypewriter-bold-r-normal-sans-10-100-75-75-m-60-microsoft-cp1251
+w-lucidasanstypewriter-bold-12 -rfx-serenetypewriter-bold-r-normal-sans-12-120-75-75-m-70-microsoft-cp1251
+w-lucidasanstypewriter-bold-14 -rfx-serenetypewriter-bold-r-normal-sans-14-140-75-75-m-90-microsoft-cp1251
+w-lucidasanstypewriter-bold-18 -rfx-serenetypewriter-bold-r-normal-sans-18-180-75-75-m-110-microsoft-cp1251
+w-lucidasanstypewriter-bold-24 -rfx-serenetypewriter-bold-r-normal-sans-24-240-75-75-m-140-microsoft-cp1251
+w-lucidasanstypewriter-8 -rfx-serenetypewriter-medium-r-normal-sans-8-80-75-75-m-50-microsoft-cp1251
+w-lucidasanstypewriter-10 -rfx-serenetypewriter-medium-r-normal-sans-10-100-75-75-m-60-microsoft-cp1251
+w-lucidasanstypewriter-12 -rfx-serenetypewriter-medium-r-normal-sans-12-120-75-75-m-70-microsoft-cp1251
+w-lucidasanstypewriter-14 -rfx-serenetypewriter-medium-r-normal-sans-14-140-75-75-m-90-microsoft-cp1251
+w-lucidasanstypewriter-18 -rfx-serenetypewriter-medium-r-normal-sans-18-180-75-75-m-110-microsoft-cp1251
+w-lucidasanstypewriter-24 -rfx-serenetypewriter-medium-r-normal-sans-24-240-75-75-m-140-microsoft-cp1251

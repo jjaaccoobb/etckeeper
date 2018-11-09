@@ -1,0 +1,63 @@
+!! Uncomment the commented lines if you don't use the xfonts-bolkhov package.
+!! Then use the command update-fonts-alias to update the actual fonts.alias
+!! file.
+
+!u-fixed  -cronyx-fixed-medium-r-semicondensed--13-120-75-75-c-60-koi8-u
+!u-variable -*-helvetica-bold-r-normal-*-*-120-*-*-*-*-koi8-u
+u-5x8	-cronyx-fixed-medium-r-normal--8-80-75-75-c-50-koi8-u
+u-6x9	-cronyx-fixed-medium-r-normal--9-90-75-75-c-60-koi8-u
+!u-6x10  -cronyx-fixed-medium-r-normal--10-100-75-75-c-60-koi8-u
+!u-6x13  -cronyx-fixed-medium-r-semicondensed--13-120-75-75-c-60-koi8-u
+!u-6x13bold  -cronyx-fixed-bold-r-semicondensed--13-120-75-75-c-60-koi8-u
+!u-7x14 -cronyx-fixed-medium-r-normal--14-130-75-75-c-70-koi8-u
+!u-7x14b -cronyx-fixed-bold-r-normal--14-130-75-75-c-70-koi8-u
+!u-8x13  -cronyx-fixed-medium-r-normal--13-120-75-75-c-80-koi8-u
+!u-8x16  -cronyx-fixed-medium-r-normal--16-160-75-75-c-80-koi8-u
+u-8x16bold  -cronyx-fixed-bold-r-normal--16-160-75-75-c-80-koi8-u
+u-screen8x16  -screen-fixed-medium-r-normal--16-120-100-100-c-80-koi8-u
+u-screen8x16b -screen-fixed-bold-r-normal--16-120-100-100-c-80-koi8-u
+u-sony8x16 -sony-fixed-medium-r-normal--16-120-100-100-c-80-koi8-u
+!u-9x15  -cronyx-fixed-medium-r-normal--15-140-75-75-c-90-koi8-u
+!u-9x15bold -cronyx-fixed-bold-r-normal--15-140-75-75-c-90-koi8-u
+u-9x18 -cronyx-fixed-medium-r-normal--18-120-100-100-c-90-koi8-u
+u-9x18bold -cronyx-fixed-bold-r-normal--18-120-100-100-c-90-koi8-u
+u-10x16bold -cronyx-fixed-bold-r-normal--16-120-100-100-c-80-koi8-u
+u-10x19  -cronyx-fixed-medium-r-normal--20-200-75-75-c-100-koi8-u
+!u-10x20  -cronyx-fixed-medium-r-normal--20-200-75-75-c-100-koi8-u
+!u-12x24  -cronyx-fixed-medium-r-normal--24-170-100-100-c-120-koi8-u
+!u-12x24bold  -cronyx-fixed-bold-r-normal--24-170-100-100-c-120-koi8-u
+u-proof -winitzki-proof-medium-r-normal--16-160-75-75-c-0-koi8-u
+!u-nil2   -cronyx-nil-medium-r-normal--2-20-75-75-c-10-koi8-u
+
+!! Uncomment the following lines if you want `7x13', `8x16', etc. to be
+!! aliases for Cyrillic fonts and you don't use the xfonts-bolkhov package.
+!! Comment out the corresponding lines from
+!! /etc/X11/fonts/misc/xfonts-base.alias.  Then use the command
+!! update-fonts-alias to update the actual fonts.alias files.
+
+!fixed  -cronyx-fixed-medium-r-semicondensed--13-120-75-75-c-60-koi8-u
+!variable -*-helvetica-bold-r-normal-*-*-120-*-*-*-*-koi8-u
+!5x8	-cronyx-fixed-medium-r-normal--8-80-75-75-c-50-koi8-u
+!6x9	-cronyx-fixed-medium-r-normal--9-90-75-75-c-60-koi8-u
+!6x10  -cronyx-fixed-medium-r-normal--10-100-75-75-c-60-koi8-u
+!6x13  -cronyx-fixed-medium-r-semicondensed--13-120-75-75-c-60-koi8-u
+!6x13bold  -cronyx-fixed-bold-r-semicondensed--13-120-75-75-c-60-koi8-u
+!7x14 -cronyx-fixed-medium-r-normal--14-130-75-75-c-70-koi8-u
+!7x14b -cronyx-fixed-bold-r-normal--14-130-75-75-c-70-koi8-u
+!8x13  -cronyx-fixed-medium-r-normal--13-120-75-75-c-80-koi8-u
+!8x16  -cronyx-fixed-medium-r-normal--16-160-75-75-c-80-koi8-u
+!8x16bold  -cronyx-fixed-bold-r-normal--16-160-75-75-c-80-koi8-u
+!screen8x16  -screen-fixed-medium-r-normal--16-120-100-100-c-80-koi8-u
+!screen8x16b -screen-fixed-bold-r-normal--16-120-100-100-c-80-koi8-u
+!sony8x16 -sony-fixed-medium-r-normal--16-120-100-100-c-80-koi8-u
+!9x15  -cronyx-fixed-medium-r-normal--15-140-75-75-c-90-koi8-u
+!9x15bold -cronyx-fixed-bold-r-normal--15-140-75-75-c-90-koi8-u
+!9x18 -cronyx-fixed-medium-r-normal--18-120-100-100-c-90-koi8-u
+!9x18bold -cronyx-fixed-bold-r-normal--18-120-100-100-c-90-koi8-u
+!10x16bold -cronyx-fixed-bold-r-normal--16-120-100-100-c-80-koi8-u
+!10x19  -cronyx-fixed-medium-r-normal--20-200-75-75-c-100-koi8-u
+!10x20  -cronyx-fixed-medium-r-normal--20-200-75-75-c-100-koi8-u
+!12x24  -cronyx-fixed-medium-r-normal--24-170-100-100-c-120-koi8-u
+!12x24bold  -cronyx-fixed-bold-r-normal--24-170-100-100-c-120-koi8-u
+!proof -winitzki-proof-medium-r-normal--16-160-75-75-c-0-koi8-u
+!nil2   -cronyx-nil-medium-r-normal--2-20-75-75-c-10-koi8-u

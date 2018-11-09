@@ -1,0 +1,12 @@
+[Unit]
+Description=Mount unit for gnome-calculator, revision 238
+Before=snapd.service
+
+[Mount]
+What=/var/lib/snapd/snaps/gnome-calculator_238.snap
+Where=/snap/gnome-calculator/238
+Type=squashfs
+Options=nodev,ro,x-gdu.hide
+
+[Install]
+WantedBy=multi-user.target

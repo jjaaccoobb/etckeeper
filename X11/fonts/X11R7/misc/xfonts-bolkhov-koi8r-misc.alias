@@ -1,0 +1,62 @@
+!! Uncomment the following lines if you want `7x13', `8x16', etc. to be
+!! aliases for Cyrillic fonts.  Comment out the corresponding lines
+!! from /etc/X11/fonts/misc/xfonts-base.alias.  Then use the command
+!! update-fonts-alias to update the actual fonts.alias files.
+
+!fixed        -rfx-fixed-medium-r-semicondensed--13-120-75-75-c-60-koi8-r
+!variable     -*-helvetica-bold-r-normal-*-*-120-*-*-*-*-koi8-r
+!5x7          -rfx-fixed-medium-r-normal--7-70-75-75-c-50-koi8-r
+!6x10         -rfx-fixed-medium-r-normal--10-100-75-75-c-60-koi8-r
+!6x13         -rfx-fixed-medium-r-semicondensed--13-120-75-75-c-60-koi8-r
+!6x13bold     -rfx-fixed-bold-r-semicondensed--13-120-75-75-c-60-koi8-r
+!7x13         -rfx-fixed-medium-r-normal--13-120-75-75-c-70-koi8-r
+!7x13bold     -rfx-fixed-bold-r-normal--13-120-75-75-c-70-koi8-r
+!7x14         -rfx-fixed-medium-r-normal--14-130-75-75-c-70-koi8-r
+!7x14bold     -rfx-fixed-bold-r-normal--14-130-75-75-c-70-koi8-r
+!8x13         -rfx-fixed-medium-r-normal--13-120-75-75-c-80-koi8-r
+!8x13bold     -rfx-fixed-bold-r-normal--13-120-75-75-c-80-koi8-r
+!8x16         -rfx-fixed-medium-r-normal--16-120-100-100-c-80-koi8-r
+!9x15         -rfx-fixed-medium-r-normal--15-140-75-75-c-90-koi8-r
+!9x15bold     -rfx-fixed-bold-r-normal--15-140-75-75-c-90-koi8-r
+!10x20        -rfx-fixed-medium-r-normal--20-200-75-75-c-100-koi8-r
+!12x24        -rfx-fixed-medium-r-normal--24-170-100-100-c-120-koi8-r
+!a14          -rfx-fixed-medium-r-normal--14-*-*-*-*-*-koi8-r
+!nil2         -rfx-nil-medium-r-normal--2-20-75-75-c-10-koi8-r
+
+r-fixed        -rfx-fixed-medium-r-semicondensed--13-120-75-75-c-60-koi8-r
+r-variable     -*-helvetica-bold-r-normal-*-*-120-*-*-*-*-koi8-r
+r-5x7          -rfx-fixed-medium-r-normal--7-70-75-75-c-50-koi8-r
+r-6x10         -rfx-fixed-medium-r-normal--10-100-75-75-c-60-koi8-r
+r-6x13         -rfx-fixed-medium-r-semicondensed--13-120-75-75-c-60-koi8-r
+r-6x13bold     -rfx-fixed-bold-r-semicondensed--13-120-75-75-c-60-koi8-r
+r-7x13         -rfx-fixed-medium-r-normal--13-120-75-75-c-70-koi8-r
+r-7x13bold     -rfx-fixed-bold-r-normal--13-120-75-75-c-70-koi8-r
+r-7x14         -rfx-fixed-medium-r-normal--14-130-75-75-c-70-koi8-r
+r-7x14bold     -rfx-fixed-bold-r-normal--14-130-75-75-c-70-koi8-r
+r-8x13         -rfx-fixed-medium-r-normal--13-120-75-75-c-80-koi8-r
+r-8x13bold     -rfx-fixed-bold-r-normal--13-120-75-75-c-80-koi8-r
+r-8x16         -rfx-fixed-medium-r-normal--16-120-100-100-c-80-koi8-r
+r-9x15         -rfx-fixed-medium-r-normal--15-140-75-75-c-90-koi8-r
+r-9x15bold     -rfx-fixed-bold-r-normal--15-140-75-75-c-90-koi8-r
+r-10x20        -rfx-fixed-medium-r-normal--20-200-75-75-c-100-koi8-r
+r-12x24        -rfx-fixed-medium-r-normal--24-170-100-100-c-120-koi8-r
+r-a14          -rfx-fixed-medium-r-normal--14-*-*-*-*-*-koi8-r
+r-nil2         -rfx-nil-medium-r-normal--2-20-75-75-c-10-koi8-r
+
+-rfx-nil-medium-r-normal--2-20-75-75-c-10-misc-fontspecific -rfx-nil-medium-r-normal--2-20-75-75-c-10-koi8-r
+
+-rfx-fixed-medium-r-normal--7-50-100-100-c-50-koi8-r -rfx-fixed-medium-r-normal--7-70-75-75-c-50-koi8-r
+-rfx-fixed-medium-r-normal--10-70-100-100-c-60-koi8-r -rfx-fixed-medium-r-normal--10-100-75-75-c-60-koi8-r
+-rfx-fixed-medium-r-semicondensed--13-100-100-100-c-60-koi8-r -rfx-fixed-medium-r-semicondensed--13-120-75-75-c-60-koi8-r
+-rfx-fixed-bold-r-semicondensed--13-100-100-100-c-60-koi8-r -rfx-fixed-bold-r-semicondensed--13-120-75-75-c-60-koi8-r
+-rfx-fixed-medium-r-normal--13-100-100-100-c-70-koi8-r -rfx-fixed-medium-r-normal--13-120-75-75-c-70-koi8-r
+-rfx-fixed-bold-r-normal--13-100-100-100-c-70-koi8-r -rfx-fixed-bold-r-normal--13-120-75-75-c-70-koi8-r
+-rfx-fixed-medium-r-normal--13-100-100-100-c-80-koi8-r -rfx-fixed-medium-r-normal--13-120-75-75-c-80-koi8-r
+-rfx-fixed-bold-r-normal--13-100-100-100-c-80-koi8-r -rfx-fixed-bold-r-normal--13-120-75-75-c-80-koi8-r
+-rfx-fixed-medium-r-normal--14-110-100-100-c-70-koi8-r -rfx-fixed-medium-r-normal--14-130-75-75-c-70-koi8-r
+-rfx-fixed-medium-r-normal--14-110-100-100-c-70-koi8-r -rfx-fixed-medium-r-normal--14-130-75-75-c-70-koi8-r
+-rfx-fixed-bold-r-normal--15-120-100-100-c-90-koi8-r -rfx-fixed-bold-r-normal--15-140-75-75-c-90-koi8-r
+-rfx-fixed-bold-r-normal--15-120-100-100-c-90-koi8-r -rfx-fixed-bold-r-normal--15-140-75-75-c-90-koi8-r
+-rfx-fixed-medium-r-normal--20-140-100-100-c-100-koi8-r -rfx-fixed-medium-r-normal--20-200-75-75-c-100-koi8-r
+-rfx-fixed-medium-r-normal--16-150-75-75-c-80-koi8-r -rfx-fixed-medium-r-normal--16-120-100-100-c-80-koi8-r
+-rfx-fixed-medium-r-normal--24-230-75-75-c-120-koi8-r -rfx-fixed-medium-r-normal--24-170-100-100-c-120-koi8-r

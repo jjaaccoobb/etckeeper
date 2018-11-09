@@ -1,0 +1,12 @@
+[Unit]
+Description=Mount unit for spotify, revision 21
+Before=snapd.service
+
+[Mount]
+What=/var/lib/snapd/snaps/spotify_21.snap
+Where=/snap/spotify/21
+Type=squashfs
+Options=nodev,ro,x-gdu.hide
+
+[Install]
+WantedBy=multi-user.target
